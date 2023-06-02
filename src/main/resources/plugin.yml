@@ -1,0 +1,9 @@
+name: SurvivalCore
+version: '${project.version}'
+main: xyz.acturusnetwork.cerispis.SurvivalCore
+api-version: 1.17
+authors: [ Cerispis ]
+depend:
+  - LuckPerms
+  - AureliumSkills
+  - SupremeTags

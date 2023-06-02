@@ -1,0 +1,8 @@
+OnPrototype: true
+GlobalSystem:
+  Enabled: true
+  SQL:
+    Address: panel.tersunetwork.net:3306
+    Database: minecraft
+    User: root
+    Pass: ''
