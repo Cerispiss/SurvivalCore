@@ -11,6 +11,7 @@ public class TestCMD extends ACommand {
 
     @Override
     public void run(CommandSender sender, String label, String[] args) {
-        sender.sendMessage("test");
+        sender.sendMessage("test fjewfjewfjwio");
+        sender.sendMessage("ferfoi");
     }
 }
